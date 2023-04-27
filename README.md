@@ -12,3 +12,5 @@ Using Leaflet a map is created that plots earthquakes based on longitude and lat
 
 The data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. 
 
+![image](https://user-images.githubusercontent.com/120423303/234754324-62f2a156-4dc8-4b23-90bf-bf3ca3789022.png)
+
